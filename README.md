@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# next-chatroom
+This is a chatroom built on react with socket.io integration
+
+#### How to run ?
+1. Download zip or clone repo
+2. Install dependencies by running (npm install)
+3. Run (npm start) to start
+
+#### Features
+- User can view the names of other users that are currently online
+- User can view the current chat thread
+- User can post messages to the chat thread
 
 ## Available Scripts
 
